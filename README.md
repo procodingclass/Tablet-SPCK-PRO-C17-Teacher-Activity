@@ -1,2 +1,2 @@
-# Tablet-SPCK-PRO-C8-Teacher-Activity
+# Tablet-SPCK-PRO-C17-Teacher-Activity
 Teacher Activity
